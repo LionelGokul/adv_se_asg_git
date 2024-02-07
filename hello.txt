@@ -1,3 +1,5 @@
 Hi,
 
-This is the initial text
+This is the initial text.
+
+This is the modified text in the branch feature.
